@@ -2,7 +2,7 @@
     "name": "berry-material-react-free",
     "version": "3.3.1",
     "private": true,
-    "homepage": "https://dashboard-one-mauve.vercel.app/free/dashboard",
+    "homepage": "https://dashboard-kniferoll.vercel.app/free/",
     "dependencies": {
         "@emotion/cache": "^11.9.3",
         "@emotion/react": "^11.9.3",
